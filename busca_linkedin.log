@@ -1,0 +1,61 @@
+2025-02-05 08:52:59,418 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-05 08:52:59,418 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-05 08:52:59,524 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-05 08:53:05,277 - WARNING -  * Debugger is active!
+2025-02-05 08:53:05,311 - INFO -  * Debugger PIN: 320-608-970
+2025-02-05 08:55:39,014 - INFO - 127.0.0.1 - - [05/Feb/2025 08:55:39] "GET / HTTP/1.1" 200 -
+2025-02-05 08:55:39,307 - INFO - 127.0.0.1 - - [05/Feb/2025 08:55:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-05 08:55:46,199 - INFO - 127.0.0.1 - - [05/Feb/2025 08:55:46] "GET / HTTP/1.1" 200 -
+2025-02-05 08:57:00,381 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-05 08:57:00,381 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-05 08:57:00,419 - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-05 08:57:04,834 - WARNING -  * Debugger is active!
+2025-02-05 08:57:04,856 - INFO -  * Debugger PIN: 320-608-970
+2025-02-05 08:57:04,923 - INFO - 127.0.0.1 - - [05/Feb/2025 08:57:04] "GET / HTTP/1.1" 200 -
+2025-02-05 09:09:04,080 - INFO - Headers configurados com sucesso
+2025-02-05 09:09:04,080 - INFO - Inicializando buscador...
+2025-02-05 09:09:04,080 - INFO - Iniciando busca com palavras-chave: ['desenvolvedor', 'python', 'backend']
+2025-02-05 09:09:04,080 - INFO - Buscando página 1: https://www.linkedin.com/search/results/people/?keywords=desenvolvedor AND python AND backend&experience=2&location=Mato%20Grosso,%20Brasil&page=0&currentCompany=none&pastCompany=none&school=none&profileLanguage=pt&type=PEOPLE_AND_COMPANIES
+2025-02-05 09:09:04,978 - INFO - Status da busca: 200
+2025-02-05 09:09:05,067 - INFO - Encontrados 0 perfis na página
+2025-02-05 09:09:05,067 - INFO - Nenhum perfil encontrado. Finalizando busca.
+2025-02-05 09:09:05,067 - INFO - Busca concluída. Total de candidatos encontrados: 0
+2025-02-05 09:09:05,099 - INFO - Resultados salvos em candidatos_encontrados.csv
+2025-02-05 09:09:54,172 - INFO - Headers configurados com sucesso
+2025-02-05 09:09:54,172 - INFO - Inicializando buscador...
+2025-02-05 09:09:54,172 - INFO - Iniciando busca com palavras-chave: ['desenvolvedor', 'python', 'backend']
+2025-02-05 09:09:54,174 - INFO - Buscando página 1: https://www.linkedin.com/search/results/people/?keywords=desenvolvedor AND python AND backend&experience=2&location=Mato%20Grosso,%20Brasil&page=0&currentCompany=none&pastCompany=none&school=none&profileLanguage=pt&type=PEOPLE_AND_COMPANIES
+2025-02-05 09:09:55,073 - INFO - Status da busca: 200
+2025-02-05 09:09:55,147 - INFO - Encontrados 0 perfis na página
+2025-02-05 09:09:55,147 - INFO - Nenhum perfil encontrado. Finalizando busca.
+2025-02-05 09:09:55,147 - INFO - Busca concluída. Total de candidatos encontrados: 0
+2025-02-05 09:09:55,151 - INFO - Resultados salvos em candidatos_encontrados.csv
+2025-02-05 09:10:02,682 - INFO - Headers configurados com sucesso
+2025-02-05 09:10:02,682 - INFO - Inicializando buscador...
+2025-02-05 09:10:02,682 - INFO - Iniciando busca com palavras-chave: ['desenvolvedor', 'python', 'backend']
+2025-02-05 09:10:02,682 - INFO - Buscando página 1: https://www.linkedin.com/search/results/people/?keywords=desenvolvedor AND python AND backend&experience=2&location=Mato%20Grosso,%20Brasil&page=0&currentCompany=none&pastCompany=none&school=none&profileLanguage=pt&type=PEOPLE_AND_COMPANIES
+2025-02-05 09:10:03,447 - INFO - Status da busca: 200
+2025-02-05 09:10:03,493 - INFO - Encontrados 0 perfis na página
+2025-02-05 09:10:03,493 - INFO - Nenhum perfil encontrado. Finalizando busca.
+2025-02-05 09:10:03,493 - INFO - Busca concluída. Total de candidatos encontrados: 0
+2025-02-05 09:10:03,499 - INFO - Resultados salvos em candidatos_encontrados.csv
+2025-02-05 09:10:10,636 - INFO - Headers configurados com sucesso
+2025-02-05 09:10:10,636 - INFO - Inicializando buscador...
+2025-02-05 09:10:10,636 - INFO - Iniciando busca com palavras-chave: ['desenvolvedor', 'python', 'backend']
+2025-02-05 09:10:10,636 - INFO - Buscando página 1: https://www.linkedin.com/search/results/people/?keywords=desenvolvedor AND python AND backend&experience=2&location=Mato%20Grosso,%20Brasil&page=0&currentCompany=none&pastCompany=none&school=none&profileLanguage=pt&type=PEOPLE_AND_COMPANIES
+2025-02-05 09:10:11,365 - INFO - Status da busca: 200
+2025-02-05 09:10:11,441 - INFO - Encontrados 0 perfis na página
+2025-02-05 09:10:11,441 - INFO - Nenhum perfil encontrado. Finalizando busca.
+2025-02-05 09:10:11,441 - INFO - Busca concluída. Total de candidatos encontrados: 0
+2025-02-05 09:10:11,464 - INFO - Resultados salvos em candidatos_encontrados.csv
+2025-02-22 12:39:01,239 - INFO - Headers configurados com sucesso
+2025-02-22 12:39:01,259 - INFO - Inicializando buscador...
+2025-02-22 12:39:01,259 - INFO - Iniciando busca com palavras-chave: ['desenvolvedor Full Stack', 'goland', 'backendJavaAngular']
+2025-02-22 12:39:01,259 - INFO - Buscando página 1: https://www.linkedin.com/search/results/people/?keywords=desenvolvedor Full Stack AND goland AND backendJavaAngular&experience=2&location=Mato%20Grosso,%20Brasil&page=0&currentCompany=none&pastCompany=none&school=none&profileLanguage=pt&type=PEOPLE_AND_COMPANIES
+2025-02-22 12:39:02,176 - INFO - Status da busca: 200
+2025-02-22 12:39:02,231 - INFO - Encontrados 0 perfis na página
+2025-02-22 12:39:02,231 - INFO - Nenhum perfil encontrado. Finalizando busca.
+2025-02-22 12:39:02,231 - INFO - Busca concluída. Total de candidatos encontrados: 0
+2025-02-22 12:39:02,281 - INFO - Resultados salvos em candidatos_encontrados.csv

@@ -1,0 +1,65 @@
+2025-02-04 14:07:29,087 - INFO - Inicializando buscador...
+2025-02-04 14:07:29,087 - INFO - Usando proxy: http://proxy1:8080
+2025-02-04 14:07:31,808 - ERROR - Erro na tentativa 1: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021FBD0C2B90>: Failed to resolve 'proxy1' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:08:24,580 - INFO - Usando proxy: http://proxy1:8080
+2025-02-04 14:08:27,296 - ERROR - Erro na tentativa 2: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021FBD0C2810>: Failed to resolve 'proxy1' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:08:59,059 - INFO - Usando proxy: http://proxy2:8080
+2025-02-04 14:09:01,734 - ERROR - Erro na tentativa 3: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021FBD0CD750>: Failed to resolve 'proxy2' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:09:38,096 - INFO - Usando proxy: http://proxy2:8080
+2025-02-04 14:09:40,803 - ERROR - Erro na tentativa 4: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021FBD0CD310>: Failed to resolve 'proxy2' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:10:12,174 - INFO - Usando proxy: http://proxy1:8080
+2025-02-04 14:10:14,890 - ERROR - Erro na tentativa 5: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021FBD0CFC10>: Failed to resolve 'proxy1' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:11:06,060 - ERROR - M�ximo de tentativas de login alcan�ado
+2025-02-04 14:11:07,806 - INFO - Inicializando buscador...
+2025-02-04 14:11:07,806 - INFO - Usando proxy: http://proxy3:8080
+2025-02-04 14:11:10,489 - ERROR - Erro na tentativa 1: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000201492E18D0>: Failed to resolve 'proxy3' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:11:50,121 - INFO - Usando proxy: http://proxy1:8080
+2025-02-04 14:11:52,812 - ERROR - Erro na tentativa 2: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020149473CD0>: Failed to resolve 'proxy1' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:12:48,678 - INFO - Usando proxy: http://proxy1:8080
+2025-02-04 14:12:51,379 - ERROR - Erro na tentativa 3: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020149481350>: Failed to resolve 'proxy1' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:13:37,721 - INFO - Usando proxy: http://proxy2:8080
+2025-02-04 14:13:40,418 - ERROR - Erro na tentativa 4: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020149482C10>: Failed to resolve 'proxy2' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:14:15,998 - INFO - Usando proxy: http://proxy3:8080
+2025-02-04 14:14:18,696 - ERROR - Erro na tentativa 5: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020149483E50>: Failed to resolve 'proxy3' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:15:13,222 - ERROR - M�ximo de tentativas de login alcan�ado
+2025-02-04 14:15:14,980 - INFO - Inicializando buscador...
+2025-02-04 14:15:14,980 - INFO - Usando proxy: http://proxy2:8080
+2025-02-04 14:15:17,680 - ERROR - Erro na tentativa 1: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000212A8FC2DD0>: Failed to resolve 'proxy2' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:16:00,619 - INFO - Usando proxy: http://proxy3:8080
+2025-02-04 14:16:03,326 - ERROR - Erro na tentativa 2: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000212A8FCC5D0>: Failed to resolve 'proxy3' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:17:00,512 - INFO - Usando proxy: http://proxy2:8080
+2025-02-04 14:17:03,212 - ERROR - Erro na tentativa 3: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000212A8FCD810>: Failed to resolve 'proxy2' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:17:57,331 - INFO - Usando proxy: http://proxy1:8080
+2025-02-04 14:18:00,032 - ERROR - Erro na tentativa 4: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000212A8FCF0D0>: Failed to resolve 'proxy1' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:18:54,472 - INFO - Usando proxy: http://proxy2:8080
+2025-02-04 14:18:57,174 - ERROR - Erro na tentativa 5: HTTPSConnectionPool(host='www.linkedin.com', port=443): Max retries exceeded with url: /login (Caused by ProxyError('Unable to connect to proxy', NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000212A8FE4350>: Failed to resolve 'proxy2' ([Errno 11001] getaddrinfo failed)")))
+2025-02-04 14:19:39,804 - ERROR - M�ximo de tentativas de login alcan�ado
+2025-02-04 14:20:16,884 - INFO - Headers configurados com sucesso
+2025-02-04 14:20:16,884 - INFO - Inicializando buscador...
+2025-02-04 14:20:16,884 - INFO - Iniciando busca com palavras-chave: ['desenvolvedor', 'python', 'backend']
+2025-02-04 14:20:16,884 - ERROR - Erro na busca: 'BuscadorCandidatosLinkedIn' object has no attribute '_montar_url_busca'
+2025-02-04 14:20:16,884 - INFO - Busca conclu�da. Total de candidatos encontrados: 0
+2025-02-04 14:20:16,901 - INFO - Resultados salvos em candidatos_encontrados.csv
+2025-02-04 14:22:03,377 - INFO - Headers configurados com sucesso
+2025-02-04 14:22:03,377 - INFO - Inicializando buscador...
+2025-02-04 14:22:28,458 - INFO - Headers configurados com sucesso
+2025-02-04 14:22:28,458 - INFO - Inicializando buscador...
+2025-02-04 14:22:28,458 - INFO - Iniciando busca com palavras-chave: ['desenvolvedor', 'python', 'backend']
+2025-02-04 14:22:28,458 - ERROR - Erro na busca: 'BuscadorCandidatosLinkedIn' object has no attribute '_montar_url_busca'
+2025-02-04 14:22:28,458 - INFO - Busca conclu�da. Total de candidatos encontrados: 0
+2025-02-04 14:22:28,458 - INFO - Resultados salvos em candidatos_encontrados.csv
+2025-02-04 14:30:34,633 - INFO - Headers configurados com sucesso
+2025-02-04 14:30:34,633 - INFO - Inicializando buscador...
+2025-02-04 14:30:34,633 - INFO - Iniciando busca com palavras-chave: ['desenvolvedor', 'python', 'backend']
+2025-02-04 14:30:34,633 - ERROR - Erro na busca: 'BuscadorCandidatosLinkedIn' object has no attribute '_montar_url_busca'
+2025-02-04 14:30:34,633 - INFO - Busca conclu�da. Total de candidatos encontrados: 0
+2025-02-04 14:30:34,633 - INFO - Resultados salvos em candidatos_encontrados.csv
+2025-02-04 14:36:55,504 - INFO - Headers configurados com sucesso
+2025-02-04 14:36:55,504 - INFO - Inicializando buscador...
+2025-02-04 14:36:55,504 - INFO - Iniciando busca com palavras-chave: ['desenvolvedor', 'python', 'backend']
+2025-02-04 14:36:55,504 - INFO - Buscando p�gina 1: https://www.linkedin.com/search/results/people/?keywords=desenvolvedor AND python AND backend&experience=2&location=Mato%20Grosso,%20Brasil&page=0&currentCompany=none&pastCompany=none&school=none&profileLanguage=pt&type=PEOPLE_AND_COMPANIES
+2025-02-04 14:36:56,116 - INFO - Status da busca: 200
+2025-02-04 14:36:56,144 - INFO - Encontrados 0 perfis na p�gina
+2025-02-04 14:36:56,144 - INFO - Nenhum perfil encontrado. Finalizando busca.
+2025-02-04 14:36:56,144 - INFO - Busca conclu�da. Total de candidatos encontrados: 0
+2025-02-04 14:36:56,144 - INFO - Resultados salvos em candidatos_encontrados.csv
